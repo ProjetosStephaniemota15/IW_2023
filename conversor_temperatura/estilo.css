@@ -1,0 +1,60 @@
+body{
+    font-family: serif;
+    background-color: #836FFF;
+}
+
+#container{
+    margin: 0 auto;
+    width: auto;
+    display: table;
+    text-align: center;
+}
+
+#convert{
+    margin-top: 6%;
+    background-color: #6959CD;
+    color: rgb(255, 255, 255);  
+}
+
+#clear{
+    margin-top: 6%;
+    background-color: #6959CD;
+    color: rgb(255, 255, 255);
+}
+
+#clear:hover{
+    background-color:	#483D8B ;
+}
+
+#convert:hover{
+    background-color: #483D8B;
+}
+
+h1{
+    font-family: fantasy;
+    color: #191970;
+    font-size: 2em;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    padding-right: 170px;
+    margin-top: 10px;
+    font-size: 1.5em;
+    font-family: cursive, sans-serif;
+    background-color: #DCDCDC	;
+}
+
+button{
+    padding: 15px;
+    font-size: 1.2em;
+    color: rgb(0, 0, 0);  
+    margin: 10%;
+}
+
+footer{
+    text-align: center;
+    font-size:0.5em; 
+    margin-top: 8%;
+}
